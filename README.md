@@ -1,2 +1,2 @@
-# ipt101_calanza
+# Calanza's Project
 printf("Hello world");
