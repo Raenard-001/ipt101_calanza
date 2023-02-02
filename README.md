@@ -1,7 +1,7 @@
 # Calanza's Project
 Vivamus efficitur sagittis urna a vehicula. In hac habitasse platea dictumst.
 # Authors
- <sub>@Reynardchristian</sub>
+- @Reynardchristian
 # Sample Code
 printf("hello world");
 
