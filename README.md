@@ -16,5 +16,5 @@ New commit 1
 New commit 2
 
 Branch Commit 1
-
+Branch Commit 2
 
